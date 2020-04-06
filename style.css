@@ -37,7 +37,8 @@ body{
     border: 1px solid black;
 }
 .four{
-    float:;
+    float:center;
+    text-align: center;
     /* border: 1px solid black; */
     min-height: 1300px;
 

@@ -3,15 +3,16 @@
     color: rgba(0, 0, 255, 0.534);
     padding: 1px 0px;
     width: 100%;
-    height: 200px;
+    height: ;
     background-color: rgba(89, 89, 248, 0.233);
 }
 table {
-    /* border: 1px solid black; */
+    border: 1px solid rgb(11, 248, 82);
     width: 100%;
 }
-body {
-    background-color: rgb(115, 210, 226);
+body{
+    /* body div */
+    background-color: rgb(44, 199, 226);
 }
 .tr1{
     background-color: rgba(0, 0, 0, 0.24);
@@ -36,7 +37,6 @@ body {
     border: 1px solid black;
 }
 .four{
-    /* body div */
     float:;
     /* border: 1px solid black; */
     min-height: 1300px;
